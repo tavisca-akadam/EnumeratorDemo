@@ -1,0 +1,11 @@
+c:\users\ankadam\source\repos\EnumeratorDemo\EnumeratorDemo\bin\Debug\netcoreapp2.2\EnumeratorDemo.deps.json
+c:\users\ankadam\source\repos\EnumeratorDemo\EnumeratorDemo\bin\Debug\netcoreapp2.2\EnumeratorDemo.runtimeconfig.json
+c:\users\ankadam\source\repos\EnumeratorDemo\EnumeratorDemo\bin\Debug\netcoreapp2.2\EnumeratorDemo.runtimeconfig.dev.json
+c:\users\ankadam\source\repos\EnumeratorDemo\EnumeratorDemo\bin\Debug\netcoreapp2.2\EnumeratorDemo.dll
+c:\users\ankadam\source\repos\EnumeratorDemo\EnumeratorDemo\bin\Debug\netcoreapp2.2\EnumeratorDemo.pdb
+c:\users\ankadam\source\repos\EnumeratorDemo\EnumeratorDemo\obj\Debug\netcoreapp2.2\EnumeratorDemo.csprojResolveAssemblyReference.cache
+c:\users\ankadam\source\repos\EnumeratorDemo\EnumeratorDemo\obj\Debug\netcoreapp2.2\EnumeratorDemo.csproj.CoreCompileInputs.cache
+c:\users\ankadam\source\repos\EnumeratorDemo\EnumeratorDemo\obj\Debug\netcoreapp2.2\EnumeratorDemo.AssemblyInfoInputs.cache
+c:\users\ankadam\source\repos\EnumeratorDemo\EnumeratorDemo\obj\Debug\netcoreapp2.2\EnumeratorDemo.AssemblyInfo.cs
+c:\users\ankadam\source\repos\EnumeratorDemo\EnumeratorDemo\obj\Debug\netcoreapp2.2\EnumeratorDemo.dll
+c:\users\ankadam\source\repos\EnumeratorDemo\EnumeratorDemo\obj\Debug\netcoreapp2.2\EnumeratorDemo.pdb
