@@ -21,6 +21,8 @@ namespace EnumeratorDemo
             };
 
             EnumeratorPlayground.DisplayItems(daysOfWeeks);
+
+            EnumeratorPlayground.DisplayItemsUsingForeach(daysOfWeeks);
             Console.ReadKey(true);
         }
     }
@@ -38,6 +40,14 @@ namespace EnumeratorDemo
                     Console.WriteLine(item);
                     hasMoreItems = enumerator.MoveNext();
                 }
+            }
+        }
+
+        public static void DisplayItemsUsingForeach<T>(IEnumerable<T> collection)
+        {
+            foreach(T item in collection)
+            {
+                Console.WriteLine(item);
             }
         }
     }
